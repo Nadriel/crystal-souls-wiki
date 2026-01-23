@@ -1,6 +1,6 @@
 ## Basic Information
 - **Full Name**: Drumb Orangebeard
-- **Age**: ?
+- **Age**: 136
 - **Occupation**: King of [[Shokorin]]
 - **Location**: [[Umbrarin]]
 - **Status**: Active
@@ -12,4 +12,4 @@
 - **Professional**: Reports to [[]]
 
 ## Background
-Born during the [[]], Loran manifested [[]] at age ...
+With the help of the [[Organizations & Factions/United Clans of Dwarvenkind|United Clans of Dwarvenkind]], Loran manifested [[]] at age ...

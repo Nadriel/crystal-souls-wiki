@@ -13,4 +13,3 @@
 
 ## Background
 Born during the [[]], Loran manifested [[]] at age ...
-```
