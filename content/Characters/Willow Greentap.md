@@ -12,7 +12,7 @@
 - **Professional**: Reports to [[]]
 
 ## Background
-She was born in the town of [[Dulcherin]], that is located in [[GlimmerWoods]].
+Willow was born in the town of [[Dulcherin]], that is located in [[GlimmerWoods]].
 
 Dulcherin was a town build mainly in a clearing inside the woods. The remote parts of it were inside the forest. Many homes were built by combining parts of the forest with the buildings (similar to how the hobbits dug and incorporated their homes in the earth).
   
